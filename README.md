@@ -1,3 +1,5 @@
+# Thanks for visiting my Git! 👋
+![Bluesky66's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluesky66-dev&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true)
 ![header-background](https://user-images.githubusercontent.com/88071912/137026041-a4f06ed7-fcc4-45d7-bde5-b2ca9c2904b2.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+SuperCoder.;I+AM+A+SEASONED+WEB+DEVELOPER.;WELCOME+TO+VISIT+MY+Github.)](https://git.io/typing-svg)
     <h2 align="center">
